@@ -2,6 +2,8 @@
 
 基于MemShellParty的Agent内存马二开，使其兼容主流操作系统，适用于在JDK全版本无回显命令执行场景下实现对所有Java进程打入内存马。
 
+目前仅实现Tomcat中间件，项目若有一定Star后会继续进行迭代更新。
+
 ---
 TomcatEcho
 
