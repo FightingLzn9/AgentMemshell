@@ -1,0 +1,2 @@
+# AgentMemshell
+基于MemShellParty的Agent内存马二开，使其兼容主流操作系统，适用于在无回显命令执行场景下实现打入内存马。
